@@ -14,9 +14,9 @@
     "@apache-airflow/ts-sdk": "file:.."
   },
   "devDependencies": {
-    "@types/node": "^26.1.2",
+    "@types/node": "^26.6.5",
     "esbuild": "^0.28.2",
-    "js-yaml": "^5.4.1",
+    "js-yaml": "^5.5.0",
     "typescript": "^6.0.2"
   }
 }
